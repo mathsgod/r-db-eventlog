@@ -17,5 +17,6 @@
     },
     "require": {
         "league/event": "^3.0"
-    }
+    },
+    "license": "MIT"
 }

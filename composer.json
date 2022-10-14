@@ -1,0 +1,21 @@
+{
+    "name": "mathsgod/r-db-event-log",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Raymond Chong",
+            "email": "mathsgod@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "R\\DB\\EventLog\\": "src/"
+        }
+    },
+    "require-dev": {
+        "mathsgod/r-db": "^4.16"
+    },
+    "require": {
+        "league/event": "^3.0"
+    }
+}

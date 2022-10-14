@@ -1,6 +1,6 @@
 # r-db-eventlog
 
-Auto generated event log for when a database recorde is created, inserted and deleted.
+Auto generated event log when a database record is created, inserted and deleted.
 
 ## setup
 Create database table EventLog
